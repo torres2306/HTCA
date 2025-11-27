@@ -14896,7 +14896,7 @@ html.tablet .ui-to-top {
 	top: 0;
 	left: 0;
 	width: 3px;
-	height: 26px;
+	height: 30px;
 	font-size: 0;
 	line-height: 0;
 	background: #3fa004;
@@ -14935,10 +14935,10 @@ html.tablet .ui-to-top {
 }
 
 .rd-navbar-static .rd-megamenu-list {
-	columns: 2;
+	columns: 3;
 	break-inside: avoid;
-	-moz-column-gap: 30px;
-	-webkit-column-gap: 30px;
+	-moz-column-gap: 38px;
+	-webkit-column-gap: 40px;
 	margin-bottom: -8px;
 }
 
@@ -14952,7 +14952,7 @@ html.tablet .ui-to-top {
 	display: flex;
 	left: 0;
 	width: calc(100% + 1px);
-	max-width: 350px;
+	max-width: 500px;
 	padding: 40px 0;
 	background: #ffffff;
 }
